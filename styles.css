@@ -55,6 +55,8 @@ section {
   background-repeat: no-repeat;
   color: #1a1a1a;                 /* White text for contrast */
   text-align: center;          /* Center the text */
+  padding-left: 80px;
+  padding-right: 80px;
 
   /* Add a dark overlay for better text readability */
   /* This uses a simple linear-gradient overlay */
